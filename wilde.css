@@ -1,0 +1,39 @@
+.speech{
+    font-family: 'Times New Roman Bold',Times, serif;
+    font-size: medium;
+    color:violet;
+}
+.speech:hover{
+    color:crimson;
+}
+.stage-direction{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color:blueviolet;
+}
+.stage-direction:hover{
+    color:brown;
+}
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color:tomato;
+}
+.name:hover{
+    color:blue;
+}
+.Baron{
+    color:brown;
+}
+.GEN{
+    color:green;
+}
+.PRINCE{
+    color:burlywood;
+}
+.COUNT{
+    color:red;
+}
+.MARQ{
+    color:cornflowerblue;
+}
