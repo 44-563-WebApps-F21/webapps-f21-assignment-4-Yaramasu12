@@ -37,3 +37,21 @@
 .MARQ{
     color:cornflowerblue;
 }
+table{
+    border:brown;
+    text-align: left;
+    color:cyan;
+    border:1px solid black
+}
+th{
+    border:brown;
+    text-align: left;
+    color:goldenrod;
+    border:1px solid black
+}
+td{
+    border:brown;
+    text-align: left;
+    color:blueviolet;
+    border:1px solid black
+}
