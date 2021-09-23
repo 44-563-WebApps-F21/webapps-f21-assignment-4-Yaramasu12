@@ -55,3 +55,21 @@ td{
     color:blueviolet;
     border:1px solid black
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background:goldenrod;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color:red;
+}
+ul.navbar-horizontal a:hover {
+    background-color: blueviolet;
+    color:yellowgreen;
+}
